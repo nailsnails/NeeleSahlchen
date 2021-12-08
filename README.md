@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeeleSahlchen
-- 👀 I’m interested in Sophie
+- 👀 I’m interested in @SophieSahlchen
 - 🌱 I’m currently learning for life
 - 💞️ I’m looking to collaborate on a super cool project in my SE lecture
 - 📫 How to reach me... You can't.
